@@ -13,7 +13,7 @@ npm i
 npm start
 ```
 2. W przeglądarce przejdź na stronę serwera (domyślnie http://localhost:3000/)
-_numer portu widoczny jest w pliku bin/www:_
+`<addr>`_numer portu widoczny jest w pliku bin/www:_
 ```javascript
 var port = normalizePort(process.env.PORT || '3000');
 ```
