@@ -1,4 +1,17 @@
-# hrprojekt
+
+# PoC
+1
+2
+3
+4
+5
+6
+7
+4
+5
+6
+
+
 
 ## instalacja
 1. Pobierz projekt używając git clone.
@@ -18,3 +31,4 @@ _numer portu widoczny jest w pliku bin/www:_
 ```javascript
 var port = normalizePort(process.env.PORT || '3000');
 ```
+
